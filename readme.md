@@ -1,3 +1,3 @@
 # New Project
 
-This is the new project with github
+This is the new project with github.
